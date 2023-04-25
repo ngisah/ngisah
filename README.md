@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Edwin Ngisah</h1>
 <h3 align="center">Software Developer, Kenya</h3>
 
+- 🔭 I'm a passionate **software developer with experience in building high quality scalable applications and i'm always looking for new challenges to expand my skills and knowledge.**
+
 - 👯 I’m looking to collaborate on **in open source projects that will be of interest to me**
 
-- You can reach me via email at **ngisahedwin@gmai.com**
+- You can reach me via email at **ngisahedwin@gmail.com**
 
 - You can access my cv with this link: [https://apricot-brianne-60.tiiny.site/](https://apricot-brianne-60.tiiny.site/)
 
@@ -11,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/edwin ngisah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edwin ngisah" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/edwin-ngisah-028183202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/edwin-ngisah-028183202/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
