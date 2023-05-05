@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edwin Ngisah</h1>
-<h3 align="center">Software Developer, Kenya</h3>
+<h3 align="center">Fullstack Developer, Kenya</h3>
 
 - 🔭 I'm a passionate **software developer with experience in building high quality scalable applications and i'm always looking for new challenges to expand my skills and knowledge.**
 
